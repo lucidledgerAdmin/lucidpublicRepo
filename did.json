@@ -6,9 +6,9 @@
   "id": "did:web:lucidledgerAdmin.github.io:lucidpublicRepo",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkh36oMqvVnWcqpeLbmsGq8k37pShYHjFXVNjyU4E6JViC",
+      "publicKeyMultibase": "z6Mkg49meb1ubYmwEevvYFen7LRAxYk3t679KKw4g9MegPv4",
       "controller": "did:web:lucidledgerAdmin.github.io:lucidpublicRepo",
-      "id": "did:web:lucidledgerAdmin.github.io:lucidpublicRepo#iiEGlzA3vn4DFcKSqB_dfA_WJqv3cFdtc1ah3ziCi9s",
+      "id": "did:web:lucidledgerAdmin.github.io:lucidpublicRepo#YZTUz8lDueA7BYW9ptFQ-IbBPMJLE0uTzYWSDmEbLHA",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
