@@ -1,0 +1,14 @@
+ Static hostname: betaserver
+       Icon name: computer-vm
+         Chassis: vm 🖴
+      Machine ID: a9290dxxxx25047xxxx7f58c6928xxxx
+         Boot ID: db607ed564dd41e78cd3cbf7ba4ea300
+  Virtualization: kvm
+Operating System: Ubuntu 24.04.3 LTS
+          Kernel: Linux 6.8.0-106-generic
+    Architecture: x86-64
+ Hardware Vendor: DigitalOcean
+  Hardware Model: Droplet
+Firmware Version: 20171212
+   Firmware Date: Tue 2017-12-12
+    Firmware Age: 8y 3month 3w
